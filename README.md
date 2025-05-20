@@ -26,3 +26,5 @@ SITECV2.github.io/
 │
 ├── index.php           # Page d'accueil principale
 ├── README.md           # Documentation du projet
+
+![code](https://github.com/user-attachments/assets/81a65c34-ed09-4512-86b5-367b39d6159a)
